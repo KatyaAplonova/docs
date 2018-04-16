@@ -8,6 +8,6 @@ udver: '2'
 
 # Dependencies
 
-The following table lists the syntactic relations used in UD v2 for Bambara.
+The following table lists the syntactic relations used in UD v2 for Bamana.
 
 {% include bm-dep-table.html %}
